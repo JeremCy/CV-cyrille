@@ -1,0 +1,1298 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/index.html
+Subject: CV - jeremie CYRILLE
+Date: Fri, 11 Sep 2020 20:17:07 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----"
+
+
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: text/html
+Content-ID: <frame-3A7C8EA39696A2883C36B1243A2A1B76@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/index.html
+
+<!DOCTYPE html><html lang=3D"fr"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-f4a6c7c8-1ea7-42e8-a616-c904b8df24d1@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"ie=3Dedge">
+    <title>CV - jeremie CYRILLE</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/jerem/Desktop/Marie-S=
+ainte%20Gilles/CV%20Marie-Sainte/css/mustard-ui.css">
+   =20
+</head>
+
+<body>
+    <section class=3D"section-primary" id=3D"main">
+        <div class=3D"container align-center">
+            <p class=3D"h3 profile__name">Jeremie CYRILLE</p>
+            <p class=3D"profile__email"><strong>Email: jeremie.cyrille@iclo=
+ud.com </strong></p>
+        </div>
+    </section>
+    <section class=3D"section-secondary">
+        <div class=3D"container align-center" id=3D"skills">
+            <h3 class=3D"skill__title">Comp=C3=A9tences</h3>
+            <div class=3D"row">
+                </div>
+                <div class=3D"col col-sm-4 col-md-2">
+                    <img src=3D"file:///C:/Users/jerem/Desktop/Marie-Sainte=
+%20Gilles/CV%20Marie-Sainte/img/Node.js_logo.svg" class=3D"skill__logo" alt=
+=3D"nodejs_icon">
+                    <p>NodeJS</p>
+                </div>
+                <div class=3D"col col-sm-4 col-md-2">
+                    <img src=3D"file:///C:/Users/jerem/Desktop/Marie-Sainte=
+%20Gilles/CV%20Marie-Sainte/img/Git-logo.svg" class=3D"skill__logo" alt=3D"=
+git_icon">
+                    <p>Git</p>
+                </div>
+            </div>
+       =20
+    </section>
+    <section class=3D"section-tertiary" id=3D"exp">
+        <div class=3D"container">
+            <div class=3D"row">
+                <div class=3D"col col-sm-12 col-md-7">
+                    <h3>Exp=C3=A9riences</h3>
+                    <p class=3D"h6">Termin=C3=A9es</p>
+                    <div class=3D"stepper">
+                        <div class=3D"step">
+                            <p class=3D"step-number">3</p>
+                            <p class=3D"step-title">etude Baccalaureat info=
+ramtioque</p>
+                            <p>2019-2020 une anne en Baccalaureat informati=
+que au Canada a l'Universite du Quebec a Trois-Riviere</p>
+                        </div>
+                        <div class=3D"step">
+                            <p class=3D"step-number">2</p>
+                            <p class=3D"step-title">etude en genie elictriq=
+ue specialite Informatique</p>
+                            <p>2018-2019 une anne en genie electrique speci=
+alite informatique au Canada a l'Universite du Quebec a Trois-Riviere</p>
+                        </div>
+                         <div class=3D"step">
+                            <p class=3D"step-number">1</p>
+                            <p class=3D"step-title">Baccalaureat scientifiq=
+ue</p>
+                            <p>Baccalaureat scientifique francais obtenue e=
+n 2018</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=3D"col col-sm-12 col-md-5">
+                    <h3>Langues</h3>
+                    <ul>
+                        <li>Fran=C3=A7ais</li>
+                        <li>Anglais (technique)</li>
+                    </ul><br>
+                    <h3>Loisirs</h3>
+                    <ul>
+                        <li>Informatique / Programmation</li>
+                        <li>Badminton</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class=3D"section-quaternary" id=3D"follow">
+        <div class=3D"container align-center">
+            <p class=3D"h4"><strong>Me suivre sur:</strong></p>
+            <div class=3D"row">
+                <div class=3D"col col-sm-4 col-md-4">
+                    <a href=3D"https://discordapp.com/" class=3D"tooltip">
+                        <img src=3D"file:///C:/Users/jerem/Desktop/Marie-Sa=
+inte%20Gilles/CV%20Marie-Sainte/img/Discord-Logo-Color.svg" class=3D"skill_=
+_logo" alt=3D"discord_icon">
+						<p>Discord</p>
+						<span class=3D"tooltip-text">citizenlab#7291</span>
+                    </a>
+                </div>
+                <div class=3D"col col-sm-4 col-md-4">
+                    <a href=3D"https://github.com/jcyrille972" class=3D"too=
+ltip">
+                        <img src=3D"file:///C:/Users/jerem/Desktop/Marie-Sa=
+inte%20Gilles/CV%20Marie-Sainte/img/GitHub-Mark.png" class=3D"skill__logo" =
+alt=3D"github_icon">
+                        <p>GitHub</p>
+						<span class=3D"tooltip-text">github/jcyrille972</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class=3D"footer align-center">
+        Made  by Jeremie CYRILLE - Copyright 2019
+    </footer>
+
+
+</body></html>
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f4a6c7c8-1ea7-42e8-a616-c904b8df24d1@mhtml.blink
+
+@charset "utf-8";
+
+:root { --primary-bg-color: #fff; --second-bg-color: #f5f5f5; --btn-bg-colo=
+r: #4caf50; --custom-yellow: #ffc107; --custom-text-color: #fff; --profile-=
+bg-opacity: 0.6; --profile-infos-opacity: 0.6; }
+
+.container { background: transparent !important; }
+
+.profile__image { margin-top: 10px; border-radius: 50px; height: 180px; wid=
+th: 180px; }
+
+.profile__name { margin-top: 25px; margin-bottom: 5px; opacity: var(--profi=
+le-infos-opacity); }
+
+.profile__email { opacity: var(--profile-infos-opacity); }
+
+.skill__title { margin-bottom: 35px; }
+
+.skill__logo { height: 64px; width: 64px; }
+
+.section-primary { color: var(--custom-text-color)  !important; background-=
+image: linear-gradient(to right bottom, rgb(3, 32, 49), rgb(212, 49, 16)) !=
+important; opacity: var(--profile-bg-opacity)  !important; }
+
+.section-secondary { background-color: var(--second-bg-color)  !important; =
+}
+
+.section-tertiary { padding-bottom: 0px; }
+
+.step-number { background-color: var(--btn-bg-color)  !important; }
+
+.tooltip { border-bottom: none; }
+
+.footer { border-top: 2px solid var(--custom-yellow); background-color: var=
+(--second-bg-color); }
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/css/mustard-ui.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; }
+
+html { box-sizing: border-box; }
+
+*, ::after, ::before { box-sizing: inherit; }
+
+body { display: flex; flex-direction: column; min-height: 100vh; background=
+-color: rgb(255, 255, 255); }
+
+main { flex: 1 1 0%; }
+
+.float-left { float: left; }
+
+.float-right { float: right; }
+
+.clear-fix::before, .clear-fix::after { content: ""; display: table; }
+
+.clear-fix::after { clear: both; }
+
+.align-left { text-align: left; }
+
+.align-center { text-align: center; }
+
+.align-right { text-align: right; }
+
+.container { max-width: 1200px; margin-left: auto; margin-right: auto; padd=
+ing: 30px 0px; }
+
+.container-small { max-width: 768px; }
+
+.container-large { max-width: 1440px; }
+
+.display-flex { display: flex; justify-content: space-around; }
+
+.display-none { display: none; }
+
+.display-sm-up { display: none; }
+
+@media (min-width: 425px) {
+  .display-sm-up { display: initial; }
+}
+
+.display-md-up { display: none; }
+
+@media (min-width: 768px) {
+  .display-md-up { display: initial; }
+}
+
+.display-lg-up { display: none; }
+
+@media (min-width: 1024px) {
+  .display-lg-up { display: initial; }
+}
+
+.display-xlg-up { display: none; }
+
+@media (min-width: 1440px) {
+  .display-xlg-up { display: initial; }
+}
+
+.display-sm-down { display: none; }
+
+@media (max-width: 424px) {
+  .display-sm-down { display: initial; }
+}
+
+.display-md-down { display: none; }
+
+@media (max-width: 767px) {
+  .display-md-down { display: initial; }
+}
+
+.display-lg-down { display: none; }
+
+@media (max-width: 1023px) {
+  .display-lg-down { display: initial; }
+}
+
+.display-xlg-down { display: none; }
+
+@media (max-width: 1439px) {
+  .display-xlg-down { display: initial; }
+}
+
+.display-sm-to-md { display: none; }
+
+@media (max-width: 767px) and (min-width: 425px) {
+  .display-sm-to-md { display: initial; }
+}
+
+.display-sm-to-lg { display: none; }
+
+@media (max-width: 1023px) and (min-width: 425px) {
+  .display-sm-to-lg { display: initial; }
+}
+
+.display-sm-to-xlg { display: none; }
+
+@media (max-width: 1439px) and (min-width: 425px) {
+  .display-sm-to-xlg { display: initial; }
+}
+
+.display-md-to-lg { display: none; }
+
+@media (max-width: 1023px) and (min-width: 768px) {
+  .display-md-to-lg { display: initial; }
+}
+
+.display-md-to-xlg { display: none; }
+
+@media (max-width: 1439px) and (min-width: 768px) {
+  .display-md-to-xlg { display: initial; }
+}
+
+.display-lg-to-xlg { display: none; }
+
+@media (max-width: 1439px) and (min-width: 1024px) {
+  .display-lg-to-xlg { display: initial; }
+}
+
+.row { display: flex; flex-flow: row wrap; margin-top: 15px; margin-bottom:=
+ 15px; }
+
+.row.row-reverse { flex-direction: row-reverse; }
+
+.row .col { flex-grow: 1; flex-basis: 100%; max-width: 100%; padding: 5px; =
+}
+
+.row .col.col-reverse { flex-direction: column-reverse; }
+
+.row .col-xs-1 { flex-basis: 8.33333%; max-width: 8.33333%; }
+
+.row .col-xs-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+
+.row .col-xs-3 { flex-basis: 25%; max-width: 25%; }
+
+.row .col-xs-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+
+.row .col-xs-5 { flex-basis: 41.6667%; max-width: 41.6667%; }
+
+.row .col-xs-6 { flex-basis: 50%; max-width: 50%; }
+
+.row .col-xs-7 { flex-basis: 58.3333%; max-width: 58.3333%; }
+
+.row .col-xs-8 { flex-basis: 66.6667%; max-width: 66.6667%; }
+
+.row .col-xs-9 { flex-basis: 75%; max-width: 75%; }
+
+.row .col-xs-10 { flex-basis: 83.3333%; max-width: 83.3333%; }
+
+.row .col-xs-11 { flex-basis: 91.6667%; max-width: 91.6667%; }
+
+.row .col-xs-12 { flex-basis: 100%; max-width: 100%; }
+
+.row .col-xs-offset-1 { margin-left: 8.33333%; }
+
+.row .col-xs-offset-2 { margin-left: 16.6667%; }
+
+.row .col-xs-offset-3 { margin-left: 25%; }
+
+.row .col-xs-offset-4 { margin-left: 33.3333%; }
+
+.row .col-xs-offset-5 { margin-left: 41.6667%; }
+
+.row .col-xs-offset-6 { margin-left: 50%; }
+
+.row .col-xs-offset-7 { margin-left: 58.3333%; }
+
+.row .col-xs-offset-8 { margin-left: 66.6667%; }
+
+.row .col-xs-offset-9 { margin-left: 75%; }
+
+.row .col-xs-offset-10 { margin-left: 83.3333%; }
+
+.row .col-xs-offset-11 { margin-left: 91.6667%; }
+
+.row .col-xs-offset-12 { margin-left: 100%; }
+
+@media (min-width: 425px) {
+  .row .col-sm-1 { flex-basis: 8.33333%; max-width: 8.33333%; }
+  .row .col-sm-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+  .row .col-sm-3 { flex-basis: 25%; max-width: 25%; }
+  .row .col-sm-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+  .row .col-sm-5 { flex-basis: 41.6667%; max-width: 41.6667%; }
+  .row .col-sm-6 { flex-basis: 50%; max-width: 50%; }
+  .row .col-sm-7 { flex-basis: 58.3333%; max-width: 58.3333%; }
+  .row .col-sm-8 { flex-basis: 66.6667%; max-width: 66.6667%; }
+  .row .col-sm-9 { flex-basis: 75%; max-width: 75%; }
+  .row .col-sm-10 { flex-basis: 83.3333%; max-width: 83.3333%; }
+  .row .col-sm-11 { flex-basis: 91.6667%; max-width: 91.6667%; }
+  .row .col-sm-12 { flex-basis: 100%; max-width: 100%; }
+  .row .col-sm-offset-1 { margin-left: 8.33333%; }
+  .row .col-sm-offset-2 { margin-left: 16.6667%; }
+  .row .col-sm-offset-3 { margin-left: 25%; }
+  .row .col-sm-offset-4 { margin-left: 33.3333%; }
+  .row .col-sm-offset-5 { margin-left: 41.6667%; }
+  .row .col-sm-offset-6 { margin-left: 50%; }
+  .row .col-sm-offset-7 { margin-left: 58.3333%; }
+  .row .col-sm-offset-8 { margin-left: 66.6667%; }
+  .row .col-sm-offset-9 { margin-left: 75%; }
+  .row .col-sm-offset-10 { margin-left: 83.3333%; }
+  .row .col-sm-offset-11 { margin-left: 91.6667%; }
+  .row .col-sm-offset-12 { margin-left: 100%; }
+}
+
+@media (min-width: 768px) {
+  .row .col-md-1 { flex-basis: 8.33333%; max-width: 8.33333%; }
+  .row .col-md-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+  .row .col-md-3 { flex-basis: 25%; max-width: 25%; }
+  .row .col-md-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+  .row .col-md-5 { flex-basis: 41.6667%; max-width: 41.6667%; }
+  .row .col-md-6 { flex-basis: 50%; max-width: 50%; }
+  .row .col-md-7 { flex-basis: 58.3333%; max-width: 58.3333%; }
+  .row .col-md-8 { flex-basis: 66.6667%; max-width: 66.6667%; }
+  .row .col-md-9 { flex-basis: 75%; max-width: 75%; }
+  .row .col-md-10 { flex-basis: 83.3333%; max-width: 83.3333%; }
+  .row .col-md-11 { flex-basis: 91.6667%; max-width: 91.6667%; }
+  .row .col-md-12 { flex-basis: 100%; max-width: 100%; }
+  .row .col-md-offset-1 { margin-left: 8.33333%; }
+  .row .col-md-offset-2 { margin-left: 16.6667%; }
+  .row .col-md-offset-3 { margin-left: 25%; }
+  .row .col-md-offset-4 { margin-left: 33.3333%; }
+  .row .col-md-offset-5 { margin-left: 41.6667%; }
+  .row .col-md-offset-6 { margin-left: 50%; }
+  .row .col-md-offset-7 { margin-left: 58.3333%; }
+  .row .col-md-offset-8 { margin-left: 66.6667%; }
+  .row .col-md-offset-9 { margin-left: 75%; }
+  .row .col-md-offset-10 { margin-left: 83.3333%; }
+  .row .col-md-offset-11 { margin-left: 91.6667%; }
+  .row .col-md-offset-12 { margin-left: 100%; }
+}
+
+@media (min-width: 1024px) {
+  .row .col-lg-1 { flex-basis: 8.33333%; max-width: 8.33333%; }
+  .row .col-lg-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+  .row .col-lg-3 { flex-basis: 25%; max-width: 25%; }
+  .row .col-lg-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+  .row .col-lg-5 { flex-basis: 41.6667%; max-width: 41.6667%; }
+  .row .col-lg-6 { flex-basis: 50%; max-width: 50%; }
+  .row .col-lg-7 { flex-basis: 58.3333%; max-width: 58.3333%; }
+  .row .col-lg-8 { flex-basis: 66.6667%; max-width: 66.6667%; }
+  .row .col-lg-9 { flex-basis: 75%; max-width: 75%; }
+  .row .col-lg-10 { flex-basis: 83.3333%; max-width: 83.3333%; }
+  .row .col-lg-11 { flex-basis: 91.6667%; max-width: 91.6667%; }
+  .row .col-lg-12 { flex-basis: 100%; max-width: 100%; }
+  .row .col-lg-offset-1 { margin-left: 8.33333%; }
+  .row .col-lg-offset-2 { margin-left: 16.6667%; }
+  .row .col-lg-offset-3 { margin-left: 25%; }
+  .row .col-lg-offset-4 { margin-left: 33.3333%; }
+  .row .col-lg-offset-5 { margin-left: 41.6667%; }
+  .row .col-lg-offset-6 { margin-left: 50%; }
+  .row .col-lg-offset-7 { margin-left: 58.3333%; }
+  .row .col-lg-offset-8 { margin-left: 66.6667%; }
+  .row .col-lg-offset-9 { margin-left: 75%; }
+  .row .col-lg-offset-10 { margin-left: 83.3333%; }
+  .row .col-lg-offset-11 { margin-left: 91.6667%; }
+  .row .col-lg-offset-12 { margin-left: 100%; }
+}
+
+@media (min-width: 1440px) {
+  .row .col-xlg-1 { flex-basis: 8.33333%; max-width: 8.33333%; }
+  .row .col-xlg-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+  .row .col-xlg-3 { flex-basis: 25%; max-width: 25%; }
+  .row .col-xlg-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+  .row .col-xlg-5 { flex-basis: 41.6667%; max-width: 41.6667%; }
+  .row .col-xlg-6 { flex-basis: 50%; max-width: 50%; }
+  .row .col-xlg-7 { flex-basis: 58.3333%; max-width: 58.3333%; }
+  .row .col-xlg-8 { flex-basis: 66.6667%; max-width: 66.6667%; }
+  .row .col-xlg-9 { flex-basis: 75%; max-width: 75%; }
+  .row .col-xlg-10 { flex-basis: 83.3333%; max-width: 83.3333%; }
+  .row .col-xlg-11 { flex-basis: 91.6667%; max-width: 91.6667%; }
+  .row .col-xlg-12 { flex-basis: 100%; max-width: 100%; }
+  .row .col-xlg-offset-1 { margin-left: 8.33333%; }
+  .row .col-xlg-offset-2 { margin-left: 16.6667%; }
+  .row .col-xlg-offset-3 { margin-left: 25%; }
+  .row .col-xlg-offset-4 { margin-left: 33.3333%; }
+  .row .col-xlg-offset-5 { margin-left: 41.6667%; }
+  .row .col-xlg-offset-6 { margin-left: 50%; }
+  .row .col-xlg-offset-7 { margin-left: 58.3333%; }
+  .row .col-xlg-offset-8 { margin-left: 66.6667%; }
+  .row .col-xlg-offset-9 { margin-left: 75%; }
+  .row .col-xlg-offset-10 { margin-left: 83.3333%; }
+  .row .col-xlg-offset-11 { margin-left: 91.6667%; }
+  .row .col-xlg-offset-12 { margin-left: 100%; }
+}
+
+.section, section { padding: 30px; }
+
+.section :last-child, section :last-child { margin-bottom: 0px; }
+
+.section-primary { background: rgb(255, 202, 40); }
+
+.section-secondary { background: rgb(245, 245, 245); }
+
+.section-tertiary { background: rgb(255, 255, 255); }
+
+blockquote { display: block; margin: 15px 15px 30px; padding: 15px; font-si=
+ze: 18px; font-weight: 400; border-left: 4px solid rgb(76, 175, 80); backgr=
+ound: rgb(255, 255, 255); }
+
+blockquote :last-child { margin-bottom: 0px; }
+
+.button, button, input[type=3D"button"], input[type=3D"reset"], input[type=
+=3D"submit"] { display: inline-block; height: 40px; margin: 0px 2px 15px; p=
+adding: 0px 20px; width: auto; background: none; overflow: visible; appeara=
+nce: none; transition: all 0.1s ease-out 0s; font-size: 14px; font-weight: =
+600; color: inherit; line-height: 40px; letter-spacing: 1px; text-decoratio=
+n: none; text-transform: uppercase; white-space: nowrap; border-radius: 4px=
+; border-style: solid; border-width: 1px; }
+
+.button:focus, button:focus, input[type=3D"button"]:focus, input[type=3D"re=
+set"]:focus, input[type=3D"submit"]:focus { outline: none; }
+
+.button:focus, .button:hover, button:focus, button:hover, input[type=3D"but=
+ton"]:focus, input[type=3D"button"]:hover, input[type=3D"reset"]:focus, inp=
+ut[type=3D"reset"]:hover, input[type=3D"submit"]:focus, input[type=3D"submi=
+t"]:hover { opacity: 0.85; cursor: pointer; transform: scale(1.025); }
+
+.button:active, button:active, input[type=3D"button"]:active, input[type=3D=
+"reset"]:active, input[type=3D"submit"]:active { opacity: 1; transform: sca=
+le(1); }
+
+.button:disabled, button:disabled, input[type=3D"button"]:disabled, input[t=
+ype=3D"reset"]:disabled, input[type=3D"submit"]:disabled { opacity: 0.5; }
+
+.button:disabled:hover, button:disabled:hover, input[type=3D"button"]:disab=
+led:hover, input[type=3D"reset"]:disabled:hover, input[type=3D"submit"]:dis=
+abled:hover { cursor: not-allowed; }
+
+.button-primary { background-color: rgb(76, 175, 80); color: rgb(255, 255, =
+255); border-color: rgb(76, 175, 80); }
+
+.button-primary-outlined { background-color: rgb(255, 255, 255); color: rgb=
+(76, 175, 80); border-color: rgb(76, 175, 80); }
+
+.button-primary-text { color: rgb(76, 175, 80); border-color: transparent; =
+}
+
+.button-success { background-color: rgb(76, 175, 80); color: rgb(255, 255, =
+255); border-color: rgb(76, 175, 80); }
+
+.button-success-outlined { background-color: rgb(255, 255, 255); color: rgb=
+(76, 175, 80); border-color: rgb(76, 175, 80); }
+
+.button-success-text { color: rgb(76, 175, 80); border-color: transparent; =
+}
+
+.button-info { background-color: rgb(158, 158, 158); color: rgb(255, 255, 2=
+55); border-color: rgb(158, 158, 158); }
+
+.button-info-outlined { background-color: rgb(255, 255, 255); color: rgb(15=
+8, 158, 158); border-color: rgb(158, 158, 158); }
+
+.button-info-text { color: rgb(158, 158, 158); border-color: transparent; }
+
+.button-warning { background-color: rgb(255, 179, 0); color: rgb(255, 255, =
+255); border-color: rgb(255, 179, 0); }
+
+.button-warning-outlined { background-color: rgb(255, 255, 255); color: rgb=
+(255, 179, 0); border-color: rgb(255, 179, 0); }
+
+.button-warning-text { color: rgb(255, 179, 0); border-color: transparent; =
+}
+
+.button-danger { background-color: rgb(244, 67, 54); color: rgb(255, 255, 2=
+55); border-color: rgb(244, 67, 54); }
+
+.button-danger-outlined { background-color: rgb(255, 255, 255); color: rgb(=
+244, 67, 54); border-color: rgb(244, 67, 54); }
+
+.button-danger-text { color: rgb(244, 67, 54); border-color: transparent; }
+
+.button-round { border-radius: 24px; }
+
+.button-large { height: 48px; line-height: 48px; padding: 0px 30px; font-si=
+ze: 16px; }
+
+.button-small { height: 30px; line-height: 30px; padding: 0px 15px; font-si=
+ze: 12px; }
+
+pre { display: block; margin: 15px 0px; padding: 10px 15px; border-left: 4p=
+x solid rgb(76, 175, 80); background: rgb(245, 245, 245); font-family: Cons=
+olas, Monaco, "Andale Mono", "Ubuntu Mono", monospace; font-size: 15px; col=
+or: rgb(33, 33, 33); white-space: normal; overflow-x: auto; }
+
+code { background: rgb(245, 245, 245); color: rgb(33, 33, 33); font-family:=
+ Monaco, "Courier New", Courier, monospace; white-space: pre; }
+
+.form-control { position: relative; margin-bottom: 10px; }
+
+.form-control-group { display: flex; justify-content: flex-start; }
+
+.form-control-group .form-control { flex: 1 1 0%; padding-right: 15px; }
+
+.form-control-group .form-control:last-of-type { padding-right: 0px; }
+
+.form-control-group .form-control.grow-1x { flex-grow: 1; }
+
+.form-control-group .form-control.grow-2x { flex-grow: 2; }
+
+.form-control-group .form-control.grow-3x { flex-grow: 3; }
+
+.validation-error { margin-top: 2px; font-size: 12px; color: rgb(244, 67, 5=
+4); }
+
+label { font-size: 14px; font-weight: 400; }
+
+input[type=3D"text"], input[type=3D"password"], select { appearance: none; =
+display: block; width: 100%; padding: 10px; line-height: 20px; font-size: 1=
+6px; font-weight: inherit; background: rgb(255, 255, 255); border-radius: 5=
+px; border: 1px solid rgb(189, 189, 189); }
+
+input[type=3D"text"]::-webkit-input-placeholder, input[type=3D"password"]::=
+-webkit-input-placeholder, select::-webkit-input-placeholder { color: rgb(1=
+58, 158, 158); }
+
+input[type=3D"text"]::placeholder, input[type=3D"password"]::placeholder, s=
+elect::placeholder { color: rgb(158, 158, 158); }
+
+input[type=3D"text"]:focus, input[type=3D"password"]:focus, select:focus { =
+outline: none; border-color: rgb(76, 175, 80); }
+
+input[type=3D"text"].invalid, input[type=3D"password"].invalid, select.inva=
+lid { border-color: rgb(244, 67, 54); }
+
+fieldset { margin: 15px 0px; padding: 15px; font-size: 14px; border: 1px so=
+lid rgb(189, 189, 189); border-radius: 5px; }
+
+fieldset legend { padding: 0px 5px; }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { margin-right: 10px; }
+
+select { background: url("data:image/svg+xml;utf8,<svg xmlns=3D\"http://www=
+.w3.org/2000/svg\" height=3D\"14\" viewBox=3D\"0 0 29 14\" width=3D\"29\"><=
+path fill=3D\"#bdbdbd\" d=3D\"M9.37727 3.625l5.08154 6.93523L19.54036 3.625=
+\"/></svg>") right center no-repeat rgb(255, 255, 255); padding-right: 30px=
+; }
+
+select:hover { cursor: pointer; }
+
+select:disabled { opacity: 0.5; }
+
+select:focus { background: url("data:image/svg+xml;utf8,<svg xmlns=3D\"http=
+://www.w3.org/2000/svg\" height=3D\"14\" viewBox=3D\"0 0 29 14\" width=3D\"=
+29\"><path fill=3D\"#4caf50\" d=3D\"M9.37727 3.625l5.08154 6.93523L19.54036=
+ 3.625\"/></svg>") right center no-repeat rgb(255, 255, 255); }
+
+textarea { appearance: none; display: block; width: 100%; padding: 10px 15p=
+x; min-height: 100px; font-size: 16px; font-weight: 300; line-height: 1.4; =
+color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); border: 1px soli=
+d rgb(189, 189, 189); border-radius: 5px; }
+
+textarea::-webkit-input-placeholder { color: rgb(158, 158, 158); }
+
+textarea::placeholder { color: rgb(158, 158, 158); }
+
+textarea:focus { border-color: rgb(76, 175, 80); outline: none; }
+
+textarea.invalid { border-color: rgb(239, 154, 154); }
+
+a { text-decoration: none; color: rgb(76, 175, 80); font-weight: 400; trans=
+ition: opacity 0.1s ease-out 0s; }
+
+a:focus, a:hover { opacity: 0.75; }
+
+a:active { opacity: 1; }
+
+ul, ol, dl { list-style: none; margin-bottom: 15px; }
+
+ul { list-style: inside circle; }
+
+ol { list-style: inside decimal; }
+
+table { margin: 15px 0px; width: 100%; border-spacing: 0px; border-collapse=
+: collapse; }
+
+table tr { border-bottom: 1px solid rgb(238, 238, 238); text-align: left; }
+
+table thead th { padding: 15px; font-weight: 300; color: rgb(158, 158, 158)=
+; }
+
+table tbody td { padding: 15px; font-weight: 300; }
+
+body { font-family: "Open Sans", sans-serif; font-size: 16px; line-height: =
+1.6; font-weight: 300; color: rgb(66, 66, 66); }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Open Sans", sans-serif; color: rgb(6=
+6, 66, 66); margin: 0px 0px 10px; font-weight: 600; }
+
+.h1, h1 { font-size: 48px; line-height: 60px; }
+
+.h2, h2 { font-size: 40px; line-height: 52px; }
+
+.h3, h3 { font-size: 32px; line-height: 44px; }
+
+.h4, h4 { font-size: 28px; line-height: 40px; }
+
+.h5, h5 { font-size: 24px; line-height: 36px; }
+
+.h6, h6 { font-size: 20px; line-height: 32px; }
+
+p { margin-bottom: 15px; }
+
+p.magnify { font-size: 17.6px; line-height: 1.8; }
+
+strong, b { font-weight: 600; }
+
+.alert { margin: 15px 0px; padding: 15px; border-radius: 5px; }
+
+.alert-danger { background: rgb(255, 235, 238); }
+
+.alert-info { background: rgb(227, 242, 253); }
+
+.alert-warning { background: rgb(255, 248, 225); }
+
+.alert-success { background: rgb(232, 245, 233); }
+
+.breadcrumbs { display: flex; list-style: none; font-size: 14px; }
+
+.breadcrumbs li { display: block; }
+
+.breadcrumbs li::after { display: inline-block; content: "/"; padding: 0px =
+5px; color: rgb(158, 158, 158); }
+
+.breadcrumbs li:last-of-type::after { display: none; }
+
+.card { margin: 15px; padding: 30px; background: rgb(255, 255, 255); overfl=
+ow: hidden; border-radius: 5px; box-shadow: rgba(224, 224, 224, 0.5) 0px 4p=
+x 12px; }
+
+.card-title { font-size: 24px; margin-bottom: 5px; }
+
+.card-actions { display: flex; align-items: center; margin-top: 30px; list-=
+style: none; justify-content: space-around; }
+
+.card-actions > * { margin-bottom: 0px; }
+
+.footer, footer { padding: 30px; width: 100%; background: rgb(117, 117, 117=
+); }
+
+.footer .copyright, footer .copyright { margin: 0px; padding-top: 30px; fon=
+t-size: 14px; color: rgb(255, 255, 255); border-top: 1px solid rgb(158, 158=
+, 158); }
+
+.footer .copyright a, footer .copyright a { color: rgb(189, 189, 189); }
+
+.footer-text p { color: rgb(255, 255, 255); }
+
+.footer-links-category { color: rgb(255, 255, 255); font-size: 14px; font-w=
+eight: 600; text-transform: uppercase; letter-spacing: 1px; }
+
+.footer-links { list-style: none; }
+
+.footer-links li { margin-top: 5px; }
+
+.footer-links a { color: rgb(189, 189, 189); }
+
+header, .header { position: relative; display: flex; flex-direction: column=
+; justify-content: center; align-items: center; padding: 0px 15px; height: =
+100vh; background: rgb(255, 193, 7); }
+
+header .title, .header .title { font-size: 50px; line-height: 50px; font-we=
+ight: 400; color: rgb(66, 66, 66); text-align: center; }
+
+@media (min-width: 768px) {
+  header .title, .header .title { font-size: 60px; line-height: 60px; }
+}
+
+header .subtitle, .header .subtitle { font-size: 18px; line-height: 26px; f=
+ont-weight: 300; color: rgb(66, 66, 66); text-align: center; }
+
+@media (min-width: 768px) {
+  header .subtitle, .header .subtitle { font-size: 25.2px; line-height: 25.=
+2px; }
+}
+
+header .disclaimer, .header .disclaimer { font-size: 12px; color: rgb(66, 6=
+6, 66); text-align: center; }
+
+header .scroll-down, .header .scroll-down { opacity: 1; transition: all 0.5=
+s ease-in 3s; }
+
+header .scroll-down, .header .scroll-down { display: flex; align-items: cen=
+ter; justify-content: center; position: absolute; bottom: 45px; left: 50%; =
+margin-left: -16px; width: 32px; height: 32px; border: 2px solid rgb(66, 66=
+, 66); border-radius: 50%; animation: 2s ease 2s infinite normal none runni=
+ng bounce; transition: all 0.2s ease-in 0s; }
+
+header .scroll-down::before, .header .scroll-down::before { display: block;=
+ position: relative; bottom: 2px; content: ""; transform: rotate(-45deg); w=
+idth: 12px; height: 12px; border-style: solid; border-color: rgb(66, 66, 66=
+); border-image: initial; border-width: 0px 0px 2px 2px; }
+
+@keyframes bounce {=20
+  0%, 100%, 20%, 50%, 80% { transform: translateY(0px); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+
+.menu { display: inline-block; list-style: none; background: rgb(255, 255, =
+255); border-radius: 5px; box-shadow: rgba(158, 158, 158, 0.5) 0px 4px 12px=
+; }
+
+.menu li a { display: block; padding: 10px 30px; border-bottom: 1px solid r=
+gb(238, 238, 238); }
+
+.menu li a:focus, .menu li a:hover { background: rgb(250, 250, 250); }
+
+.modal-mask { position: fixed; top: 0px; right: 0px; bottom: 0px; left: 0px=
+; background: rgba(97, 97, 97, 0.5); z-index: 10; }
+
+.modal { display: flex; flex-direction: column; justify-content: space-betw=
+een; position: fixed; top: 50%; left: 50%; max-width: 540px; transform: tra=
+nslate(-50%, -50%); background: rgb(255, 255, 255); border-radius: 5px; ove=
+rflow: hidden; box-shadow: rgba(117, 117, 117, 0.5) 0px 4px 12px; }
+
+.modal-head { padding: 10px 15px; }
+
+.modal-head .modal-title { font-size: 24px; }
+
+.modal-body { flex: 1 1 0%; padding: 30px 15px; background: rgb(238, 238, 2=
+38); }
+
+.modal-footer { padding: 15px; }
+
+.modal-footer > * { margin-bottom: 0px; }
+
+nav, .nav { padding: 0px 15px; height: 60px; width: 100%; background: rgb(2=
+55, 193, 7); }
+
+nav a, .nav a { display: block; color: rgb(66, 66, 66); }
+
+.nav-container { display: flex; align-items: center; justify-content: space=
+-between; height: 100%; max-width: 1200px; margin: 0px auto; padding: 0px 3=
+0px; }
+
+.nav-logo { display: flex; align-items: center; font-size: 32px; line-heigh=
+t: 32px; }
+
+.nav-links { display: none; list-style: none; margin: 0px; height: 100%; }
+
+@media (min-width: 768px) {
+  .nav-links { display: flex; }
+}
+
+.nav-links li, .nav-links a { height: 100%; }
+
+.nav-links a { display: flex; align-items: center; padding: 0px 30px; }
+
+.nav-links a:active { color: rgb(76, 175, 80); }
+
+.nav-links a.active { border-bottom: 4px solid rgb(76, 175, 80); }
+
+.mobile-menu-toggle { display: block; position: relative; height: 20px; wid=
+th: 26px; }
+
+@media (min-width: 768px) {
+  .mobile-menu-toggle { display: none; }
+}
+
+.mobile-menu-toggle:focus, .mobile-menu-toggle:hover { cursor: pointer; }
+
+.mobile-menu-toggle::before { position: absolute; top: 0px; left: 0px; widt=
+h: 26px; height: 4px; content: ""; background: rgb(66, 66, 66); border-radi=
+us: 4px; box-shadow: rgb(66, 66, 66) 0px 8px 0px 0px, rgb(66, 66, 66) 0px 1=
+6px 0px 0px; }
+
+.pagination { display: flex; list-style: none; margin: 15px 0px; }
+
+.pagination li { margin: 0px 5px; }
+
+.pagination li a { display: block; padding: 5px 10px; border-radius: 5px; b=
+ackground: rgb(255, 255, 255); border: 1px solid rgb(224, 224, 224); }
+
+.pagination li a.active, .pagination li a:focus, .pagination li a:hover { o=
+pacity: 1; border-color: rgb(76, 175, 80); }
+
+.pagination li a.active { background: rgb(76, 175, 80); color: rgb(255, 255=
+, 255); }
+
+.pagination li a:active { transform: scale(0.95); }
+
+.panel { background: rgb(255, 255, 255); border-radius: 5px; overflow: hidd=
+en; margin: 30px 0px; box-shadow: rgba(224, 224, 224, 0.5) 0px 4px 12px; }
+
+.panel-head { display: flex; align-items: center; justify-content: space-be=
+tween; margin-bottom: 10px; padding: 10px 15px; background: rgb(250, 250, 2=
+50); }
+
+.panel-head .panel-title { font-size: 28px; }
+
+.panel-body { padding: 30px 15px; }
+
+.panel-footer { padding: 15px; background: rgb(250, 250, 250); }
+
+.panel-footer > * { margin-bottom: 0px; }
+
+.pricing-table .package { display: flex; flex-flow: column wrap; justify-co=
+ntent: space-between; margin: 15px; padding: 30px; border: 1px solid rgb(22=
+4, 224, 224); border-radius: 5px; text-align: center; background: rgb(255, =
+255, 255); }
+
+.pricing-table .package.featured { border-color: rgb(76, 175, 80); border-w=
+idth: 2px; }
+
+.pricing-table .package.featured .package-name { color: rgb(76, 175, 80); }
+
+.pricing-table .package hr { border-width: 0px 0px 1px; border-top-style: i=
+nitial; border-right-style: initial; border-left-style: initial; border-top=
+-color: initial; border-right-color: initial; border-left-color: initial; b=
+order-image: initial; border-bottom-style: solid; border-bottom-color: rgb(=
+224, 224, 224); height: 1px; }
+
+.pricing-table .package .package-name { font-weight: 700; text-transform: u=
+ppercase; }
+
+.pricing-table .package .price { margin: 15px 0px 0px; font-size: 36px; lin=
+e-height: 1.2; }
+
+.pricing-table .package .price-disclaimer { font-size: 12px; }
+
+.pricing-table .package .features { flex: 1 1 0%; padding: 15px; list-style=
+: none; }
+
+.pricing-table .package .features li { margin-bottom: 5px; }
+
+.progress-bar { position: relative; margin: 15px 0px; height: 20px; backgro=
+und: rgb(238, 238, 238); border-radius: 5px; overflow: hidden; }
+
+.progress-bar > span { display: block; position: absolute; height: 100%; bo=
+rder-radius: 4px; overflow: hidden; }
+
+.progress-bar > span.progress-bar-green { background: rgb(102, 187, 106); }
+
+.progress-bar > span.progress-bar-blue { background: rgb(66, 165, 245); }
+
+.progress-bar > span.progress-bar-red { background: rgb(239, 83, 80); }
+
+.progress-bar.striped > span::after { content: ""; position: absolute; top:=
+ 0px; left: 0px; bottom: 0px; right: 0px; background-image: linear-gradient=
+(-45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rg=
+ba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, =
+transparent); background-size: 50px 50px; overflow: hidden; }
+
+.progress-bar.animated > span::after { animation: 2s linear 0s infinite nor=
+mal none running move; }
+
+@keyframes move {=20
+  0% { background-position: 0px 0px; }
+  100% { background-position: 50px 50px; }
+}
+
+.sidebar { padding: 15px; }
+
+.sidebar-left { border-right: 1px solid rgb(224, 224, 224); }
+
+.sidebar-right { border-left: 1px solid rgb(224, 224, 224); }
+
+.sidebar-category { padding: 10px; font-size: 18px; color: rgb(117, 117, 11=
+7); border-bottom: 1px solid rgb(224, 224, 224); background: url("data:imag=
+e/svg+xml;utf8,<svg xmlns=3D\"http://www.w3.org/2000/svg\" height=3D\"14\" =
+viewBox=3D\"0 0 29 14\" width=3D\"29\"><path d=3D\"M9.4 3.6l5.1 6.9L19.5 3.=
+6\" fill=3D\"#bdbdbd\"/></svg>") right center no-repeat; }
+
+.sidebar-category:focus, .sidebar-category:hover { cursor: pointer; opacity=
+: 0.75; }
+
+.sidebar-links { list-style: none; padding-left: 10px; }
+
+.sidebar-links a { display: block; padding: 5px 10px; }
+
+.sidebar-links a.active { font-weight: 700; }
+
+.stepper { margin: 30px 15px; }
+
+.stepper .step { position: relative; padding: 0px 30px; margin-bottom: 30px=
+; border-left: 1px solid rgb(189, 189, 189); }
+
+.stepper .step:last-of-type { border: none; }
+
+.stepper .step .step-number { display: flex; flex-direction: column; align-=
+items: center; justify-content: center; position: absolute; top: 0px; left:=
+ -18px; height: 36px; width: 36px; z-index: 1; font-weight: 600; color: rgb=
+(255, 255, 255); background: rgb(139, 195, 74); border-radius: 50%; box-sha=
+dow: rgb(224, 224, 224) 0px 2px 4px; }
+
+.stepper .step .step-title { margin: 0px; font-weight: 600; font-size: 20px=
+; line-height: 36px; }
+
+.tabs { list-style: none; display: flex; margin: 15px 0px 30px; }
+
+.tabs .tab { padding: 8px 45px; border-bottom: 1px solid rgb(224, 224, 224)=
+; color: rgb(189, 189, 189); }
+
+.tabs .tab.active { border-top: 2px solid rgb(76, 175, 80); border-left: 1p=
+x solid rgb(224, 224, 224); border-right: 1px solid rgb(224, 224, 224); bor=
+der-bottom: none; color: rgb(117, 117, 117); }
+
+.tabs .tab:focus, .tabs .tab:hover { opacity: 1; color: rgb(66, 66, 66); }
+
+.tags { display: flex; flex-wrap: wrap; list-style: none; }
+
+.tags .tag { margin-right: 5px; padding: 5px 15px; font-size: 14px; font-we=
+ight: 400; border-radius: 4px; color: rgb(255, 255, 255); background: rgb(1=
+58, 158, 158); box-shadow: rgb(238, 238, 238) 0px 2px 4px; }
+
+.tags .tag a { display: block; color: rgb(255, 255, 255); }
+
+.tags .tag-rounded { border-radius: 16px; }
+
+.tags .tag-blue { background: rgb(33, 150, 243); }
+
+.tags .tag-red { background: rgb(244, 67, 54); }
+
+.tags .tag-green { background: rgb(76, 175, 80); }
+
+.tags .tag-orange { background: rgb(255, 152, 0); }
+
+.tooltip { display: inline-block; position: relative; border-bottom: 1px da=
+shed rgb(189, 189, 189); }
+
+.tooltip:focus, .tooltip:hover { cursor: pointer; }
+
+.tooltip:focus .tooltip-text, .tooltip:hover .tooltip-text { display: block=
+; }
+
+.tooltip-text { display: none; position: absolute; bottom: 125%; left: 50%;=
+ transform: translateX(-50%); min-width: 300px; padding: 10px 15px; color: =
+rgb(255, 255, 255); text-align: center; background: rgb(66, 66, 66); border=
+-radius: 5px; box-shadow: rgb(158, 158, 158) 0px 2px 4px; }
+
+.tooltip-text::after { position: absolute; content: ""; top: 100%; left: 50=
+%; transform: translateX(-50%); border-width: 8px; border-style: solid; bor=
+der-color: rgb(66, 66, 66) transparent transparent; }
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/img/Node.js_logo.svg
+
+<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"589.827" height=3D"361.2=
+38" version=3D"1.2" viewBox=3D"0 0 442.37 270.929"><defs><clipPath id=3D"a"=
+><path d=3D"M239.03 226.605l-42.13 24.317c-1.578.91-2.546 2.59-2.546 4.406v=
+48.668c0 1.817.968 3.496 2.546 4.406l42.133 24.336c1.575.907 3.517.907 5.09=
+ 0l42.126-24.336c1.57-.91 2.54-2.59 2.54-4.406v-48.668c0-1.816-.97-3.496-2.=
+55-4.406l-42.12-24.317c-.79-.453-1.67-.68-2.55-.68-.88 0-1.76.227-2.55.68"/=
+></clipPath><linearGradient id=3D"b" x1=3D"-.348" x2=3D"1.251" gradientTran=
+sform=3D"rotate(116.114 53.1 202.97) scale(86.48)" gradientUnits=3D"userSpa=
+ceOnUse"><stop offset=3D".3" stop-color=3D"#3E863D"/><stop offset=3D".5" st=
+op-color=3D"#55934F"/><stop offset=3D".8" stop-color=3D"#5AAD45"/></linearG=
+radient><clipPath id=3D"c"><path d=3D"M195.398 307.086c.403.523.907.976 1.5=
+ 1.316l36.14 20.875 6.02 3.46c.9.52 1.926.74 2.934.665.336-.027.672-.09 1-.=
+183l44.434-81.36c-.34-.37-.738-.68-1.184-.94l-27.586-15.93-14.582-8.39c-.41=
+4-.24-.863-.41-1.32-.53zm0 0"/></clipPath><linearGradient id=3D"d" x1=3D"-.=
+456" x2=3D".582" gradientTransform=3D"rotate(-36.46 550.846 -214.337) scale=
+(132.798)" gradientUnits=3D"userSpaceOnUse"><stop offset=3D".57" stop-color=
+=3D"#3E863D"/><stop offset=3D".72" stop-color=3D"#619857"/><stop offset=3D"=
+1" stop-color=3D"#76AC64"/></linearGradient><clipPath id=3D"e"><path d=3D"M=
+241.066 225.953c-.707.07-1.398.29-2.035.652l-42.01 24.247 45.3 82.51c.63-.0=
+9 1.25-.3 1.81-.624l42.13-24.336c1.3-.754 2.19-2.03 2.46-3.476l-46.18-78.89=
+c-.34-.067-.68-.102-1.03-.102-.14 0-.28.007-.42.02"/></clipPath><linearGrad=
+ient id=3D"f" x1=3D".043" x2=3D".984" gradientTransform=3D"translate(192.86=
+2 279.652) scale(97.417)" gradientUnits=3D"userSpaceOnUse"><stop offset=3D"=
+.16" stop-color=3D"#6BBF47"/><stop offset=3D".38" stop-color=3D"#79B461"/><=
+stop offset=3D".47" stop-color=3D"#75AC64"/><stop offset=3D".7" stop-color=
+=3D"#659E5A"/><stop offset=3D".9" stop-color=3D"#3E863D"/></linearGradient>=
+</defs><path fill=3D"#689f63" d=3D"M218.647 270.93c-1.46 0-2.91-.383-4.19-1=
+.12l-13.337-7.896c-1.992-1.114-1.02-1.508-.363-1.735 2.656-.93 3.195-1.14 6=
+.03-2.75.298-.17.688-.11.993.07l10.246 6.08c.37.2.895.2 1.238 0l39.95-23.06=
+c.37-.21.61-.64.61-1.08v-46.1c0-.46-.24-.87-.618-1.1l-39.934-23.04c-.37-.22=
+-.86-.22-1.23 0l-39.926 23.04c-.387.22-.633.65-.633 1.09v46.1c0 .44.24.86.6=
+2 1.07l10.94 6.32c5.94 2.97 9.57-.53 9.57-4.05v-45.5c0-.65.51-1.15 1.16-1.1=
+5h5.06c.63 0 1.15.5 1.15 1.15v45.52c0 7.92-4.32 12.47-11.83 12.47-2.31 0-4.=
+13 0-9.21-2.5l-10.48-6.04c-2.59-1.5-4.19-4.3-4.19-7.29v-46.1c0-3 1.6-5.8 4.=
+19-7.28l39.99-23.07c2.53-1.43 5.89-1.43 8.4 0l39.94 23.08c2.58 1.49 4.19 4.=
+28 4.19 7.28v46.1c0 2.99-1.61 5.78-4.19 7.28l-39.94 23.07c-1.28.74-2.73 1.1=
+2-4.21 1.12"/><path fill=3D"#689f63" d=3D"M230.987 239.164c-17.48 0-21.145-=
+8.024-21.145-14.754 0-.64.516-1.15 1.157-1.15h5.16c.57 0 1.05.415 1.14.978.=
+78 5.258 3.1 7.91 13.67 7.91 8.42 0 12-1.902 12-6.367 0-2.57-1.02-4.48-14.1=
+-5.76-10.94-1.08-17.7-3.49-17.7-12.24 0-8.06 6.8-12.86 18.19-12.86 12.79 0 =
+19.13 4.44 19.93 13.98.03.33-.09.65-.31.89-.22.23-.53.37-.85.37h-5.19c-.54 =
+0-1.01-.38-1.12-.9-1.25-5.53-4.27-7.3-12.48-7.3-9.19 0-10.26 3.2-10.26 5.6 =
+0 2.91 1.26 3.76 13.66 5.4 12.28 1.63 18.11 3.93 18.11 12.56 0 8.7-7.26 13.=
+69-19.92 13.69m48.66-48.89h1.34c1.1 0 1.31-.77 1.31-1.22 0-1.18-.81-1.18-1.=
+26-1.18h-1.38zm-1.63-3.78h2.97c1.02 0 3.02 0 3.02 2.28 0 1.59-1.02 1.92-1.6=
+3 2.12 1.19.08 1.27.86 1.43 1.96.08.69.21 1.88.45 2.28h-1.83c-.05-.4-.33-2.=
+6-.33-2.72-.12-.49-.29-.73-.9-.73h-1.51v3.46h-1.67zm-3.57 4.3c0 3.58 2.89 6=
+.48 6.44 6.48 3.58 0 6.47-2.96 6.47-6.48 0-3.59-2.93-6.44-6.48-6.44-3.5 0-6=
+.44 2.81-6.44 6.43m14.16.03c0 4.24-3.47 7.7-7.7 7.7-4.2 0-7.7-3.42-7.7-7.7 =
+0-4.36 3.58-7.7 7.7-7.7 4.15 0 7.69 3.35 7.69 7.7"/><path fill=3D"#333" fil=
+l-rule=3D"evenodd" d=3D"M94.936 90.55c0-1.84-.97-3.53-2.558-4.445l-42.356-2=
+4.37c-.715-.42-1.516-.64-2.328-.67h-.438c-.812.03-1.613.25-2.34.67L2.562 86=
+.105C.984 87.025 0 88.715 0 90.555l.093 65.64c0 .91.47 1.76 1.27 2.21.78.48=
+ 1.76.48 2.54 0l25.18-14.42c1.59-.946 2.56-2.618 2.56-4.44V108.88c0-1.83.97=
+-3.52 2.555-4.43l10.72-6.174c.796-.46 1.67-.688 2.56-.688.876 0 1.77.226 2.=
+544.687l10.715 6.172c1.586.91 2.56 2.6 2.56 4.43v30.663c0 1.82.983 3.5 2.56=
+5 4.44l25.164 14.41c.79.47 1.773.47 2.56 0 .776-.45 1.268-1.3 1.268-2.21zm1=
+99.868 34.176c0 .457-.243.88-.64 1.106l-14.548 8.386c-.395.227-.883.227-1.2=
+77 0l-14.55-8.386c-.4-.227-.64-.65-.64-1.106V107.93c0-.458.24-.88.63-1.11l1=
+4.54-8.4c.4-.23.89-.23 1.29 0l14.55 8.4c.4.23.64.652.64 1.11zM298.734.324c-=
+.794-.442-1.76-.43-2.544.027-.78.46-1.262 1.3-1.262 2.21v65c0 .64-.34 1.23-=
+.894 1.55-.55.32-1.235.32-1.79 0L281.634 63c-1.58-.914-3.526-.914-5.112 0l-=
+42.37 24.453c-1.583.91-2.56 2.6-2.56 4.42v48.92c0 1.83.977 3.51 2.56 4.43l4=
+2.37 24.47c1.582.91 3.53.91 5.117 0l42.37-24.48c1.58-.92 2.56-2.6 2.56-4.43=
+V18.863c0-1.856-1.01-3.563-2.63-4.47zm141.093 107.164c1.574-.914 2.543-2.60=
+2 2.543-4.422V91.21c0-1.824-.97-3.507-2.547-4.425l-42.1-24.44c-1.59-.92-3.5=
+4-.92-5.13 0l-42.36 24.45c-1.59.92-2.56 2.6-2.56 4.43v48.9c0 1.84.99 3.54 2=
+.58 4.45l42.09 23.99c1.55.89 3.45.9 5.02.03l25.46-14.15c.8-.45 1.31-1.3 1.3=
+1-2.22 0-.92-.49-1.78-1.29-2.23l-42.62-24.46c-.8-.45-1.29-1.3-1.29-2.21v-15=
+.34c0-.916.48-1.76 1.28-2.216l13.26-7.65c.79-.46 1.76-.46 2.55 0l13.27 7.65=
+c.79.45 1.28 1.3 1.28 2.21v12.06c0 .91.49 1.76 1.28 2.22.79.45 1.77.45 2.56=
+-.01zm0 0"/><path fill=3D"#689f63" fill-rule=3D"evenodd" d=3D"M394.538 105.=
+2c.3-.177.676-.177.98 0l8.13 4.69c.304.176.49.5.49.85v9.39c0 .35-.186.674-.=
+49.85l-8.13 4.69c-.304.177-.68.177-.98 0l-8.125-4.69c-.31-.176-.5-.5-.5-.85=
+v-9.39c0-.35.18-.674.49-.85zm0 0"/><g clip-path=3D"url(#a)" transform=3D"tr=
+anslate(-78.306 -164.016)"><path fill=3D"url(#b)" d=3D"M331.363 246.793l-11=
+8.715-58.19-60.87 124.174L270.49 370.97zm0 0"/></g><g clip-path=3D"url(#c)"=
+ transform=3D"translate(-78.306 -164.016)"><path fill=3D"url(#d)" d=3D"M144=
+.07 264.004l83.825 113.453 110.86-81.906-83.83-113.45zm0 0"/></g><g clip-pa=
+th=3D"url(#e)" transform=3D"translate(-78.306 -164.016)"><path fill=3D"url(=
+#f)" d=3D"M197.02 225.934v107.43h91.683v-107.43zm0 0"/></g></svg>
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/img/Git-logo.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 272.96 114.01">
+ <path fill=3D"#413000" d=3D"m163.59,38.806c-5.985,0-10.442,2.9389-10.442,1=
+0.012,0,5.3291,2.9375,9.0284,10.12,9.0284,6.0875,0,10.222-3.5869,10.222-9.2=
+485,0-6.416-3.7-9.7915-9.9-9.7915zm-11.97,49.94c-1.4162,1.7382-2.8275,3.585=
+-2.8275,5.7646,0,4.3482,5.545,5.6568,13.162,5.6568,6.31,0,14.905-0.44188,14=
+.905-6.3085,0-3.4869-4.135-3.7028-9.36-4.0304l-15.88-1.0825zm32.201-49.611c=
+1.955,2.5029,4.025,5.9848,4.025,10.989,0,12.075-9.465,19.146-23.169,19.146-=
+3.485,0-6.64-0.43412-8.5962-0.97712l-3.5912,5.7648,10.66,0.65125c18.822,1.1=
+992,29.915,1.7442,29.915,16.208,0,12.514-10.985,19.581-29.915,19.581-19.69,=
+0-27.196-5.0049-27.196-13.598,0-4.8975,2.1762-7.5025,5.9838-11.098-3.5912-1=
+.518-4.7862-4.2362-4.7862-7.1748,0-2.395,1.195-4.5702,3.1562-6.6386,1.9575-=
+2.065,4.1325-4.1348,6.7438-6.5274-5.33-2.6104-9.3562-8.2676-9.3562-16.319,0=
+-12.509,8.2688-21.1,24.91-21.1,4.6788,0,7.5088,0.43062,10.011,1.0874h21.215=
+v9.2446l-10.01,0.76175"/>
+ <path fill=3D"#413000" d=3D"m212.98,19.366c-6.2025,0-9.7912-3.5932-9.7912-=
+9.7964,0-6.1954,3.5888-9.5704,9.7912-9.5704,6.31,0,9.9,3.375,9.9,9.5704,0,6=
+.2031-3.59,9.7964-9.9,9.7964zm-14.036,65.376,0-8.5899,5.55-0.75925c1.5238-0=
+.22075,1.74-0.5445,1.74-2.1802v-31.983c0-1.1942-0.325-1.959-1.4162-2.2828l-=
+5.8738-2.0688,1.1962-8.8086h22.521v45.144c0,1.7438,0.105,1.9595,1.7412,2.18=
+02l5.5488,0.75925v8.5899h-31.008"/>
+ <path fill=3D"#413000" d=3D"m272.97,80.526c-4.68,2.2818-11.532,4.3491-17.7=
+36,4.3491-12.945,0-17.839-5.2168-17.839-17.515v-28.5c0-0.65138,0-1.0884-0.8=
+7375-1.0884h-7.6138v-9.6816c9.5762-1.0908,13.381-5.8784,14.578-17.736h10.33=
+6v15.453c0,0.75875,0,1.0874,0.87125,1.0874h15.338v10.877h-16.209v25.999c0,6=
+.4194,1.525,8.9194,7.3962,8.9194,3.05,0,6.2012-0.75925,8.8125-1.7392l2.94,9=
+.5761"/>
+ <path fill=3D"#f05133" d=3D"M111.78,51.977,62.035,2.2381c-2.8622-2.8648-7.=
+5082-2.8648-10.374,0l-10.329,10.33,13.102,13.102c3.0459-1.0284,6.5371-0.338=
+88,8.9639,2.0884,2.4394,2.4424,3.124,5.9634,2.0698,9.0195l12.628,12.628c3.0=
+551-1.0528,6.58-0.37262,9.0195,2.0712,3.4106,3.4096,3.4106,8.9345,0,12.345-=
+3.4111,3.4116-8.936,3.4116-12.349,0-2.5645-2.5665-3.1988-6.3345-1.8999-9.49=
+42l-11.777-11.777-0.001,30.991c0.8315,0.41162,1.6162,0.961,2.3091,1.6509,3.=
+4096,3.4092,3.4096,8.9331,0,12.348-3.4106,3.4091-8.938,3.4091-12.345,0-3.41=
+01-3.4146-3.4101-8.9385,0-12.348,0.84275-0.84125,1.8179-1.478,2.8584-1.9048=
+v-31.279c-1.041-0.425-2.015-1.057-2.859-1.905-2.583-2.581-3.2051-6.372-1.88=
+04-9.5439l-12.916-12.918-34.106,34.105c-2.8657,2.867-2.8657,7.513,0,10.378l=
+49.742,49.739c2.8638,2.8648,7.5082,2.8648,10.376,0l49.512-49.504c2.8648-2.8=
+662,2.8648-7.5136,0-10.379"/>
+</svg>=0A
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/img/Discord-Logo-Color.svg
+
+<svg id=3D"Layer_1" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 245=
+ 240"><style>.st0{fill:#7289DA;}</style><path class=3D"st0" d=3D"M104.4 103=
+.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c5.7 0 10.2-5 10.2-11.1.1-6.1-=
+4.5-11.1-10.2-11.1zM140.9 103.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c=
+5.7 0 10.2-5 10.2-11.1s-4.5-11.1-10.2-11.1z"/><path class=3D"st0" d=3D"M189=
+.5 20h-134C44.2 20 35 29.2 35 40.6v135.2c0 11.4 9.2 20.6 20.5 20.6h113.4l-5=
+.3-18.5 12.8 11.9 12.1 11.2 21.5 19V40.6c0-11.4-9.2-20.6-20.5-20.6zm-38.6 1=
+30.6s-3.6-4.3-6.6-8.1c13.1-3.7 18.1-11.9 18.1-11.9-4.1 2.7-8 4.6-11.5 5.9-5=
+ 2.1-9.8 3.5-14.5 4.3-9.6 1.8-18.4 1.3-25.9-.1-5.7-1.1-10.6-2.7-14.7-4.3-2.=
+3-.9-4.8-2-7.3-3.4-.3-.2-.6-.3-.9-.5-.2-.1-.3-.2-.4-.3-1.8-1-2.8-1.7-2.8-1.=
+7s4.8 8 17.5 11.8c-3 3.8-6.7 8.3-6.7 8.3-22.1-.7-30.5-15.2-30.5-15.2 0-32.2=
+ 14.4-58.3 14.4-58.3 14.4-10.8 28.1-10.5 28.1-10.5l1 1.2c-18 5.2-26.3 13.1-=
+26.3 13.1s2.2-1.2 5.9-2.9c10.7-4.7 19.2-6 22.7-6.3.6-.1 1.1-.2 1.7-.2 6.1-.=
+8 13-1 20.2-.2 9.5 1.1 19.7 3.9 30.1 9.6 0 0-7.9-7.5-24.9-12.7l1.4-1.6s13.7=
+-.3 28.1 10.5c0 0 14.4 26.1 14.4 58.3 0 0-8.5 14.5-30.6 15.2z"/></svg>
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/jerem/Desktop/Marie-Sainte%20Gilles/CV%20Marie-Sainte/img/GitHub-Mark.png
+
+iVBORw0KGgoAAAANSUhEUgAAAjAAAAIwCAMAAACvL6FdAAAC/VBMVEX////8/Pzp6enW1tbAwMCt
+rKyamZmLiop8e3ttbGxfXV1QT09EQ0NAPj4zMTEsKiolIyMdGxsXFRUtKytFRESbmprX19fq6urx
+8fHS0tKysbGWlZV7enpiYGBHRkYYFhZIR0fy8vL7+/vd3d22traPjo5raWlJR0cpJydLSUlsamrv
+7u7DwsJqaWkcGhqXlpbw7+/19fXHxsaUk5NjYWEyMTGVlJTIx8fn5+evrq53dXVCQEAaGBhDQUF4
+d3epqalvbm43NTVxcHCqqqro6Oi7uro+PDw/PT19fHy8u7vh4eGcm5tXVVUcGxtYVladnJzi4uL+
+/v7Ozc2DgoI8Ozs9PDzQz8/9/f16eXkxMDDNzc0uLCx+fX3Pzs7c3NyIh4c2NDSko6NNS0sfHR3w
+8PDT09NubW1wb2/U1NS0tLRPTk61tbX09PSYl5c0MjKZmJjr6+uGhYUmJCQmJSWHhobs7Ozk4+N2
+dHQeHBze3t4bGRlycXEhHx+lpKS+vr7g4OBgXl729vYwLy/j4+NbWlpdXFwgHh5EQkL5+fnMzMw6
+OTk7Ojr6+voZFxcqKCi9vLz6+flKSEgnJiYoJiaJiIhZV1ezs7OOjY34+PhpaGjb2trc29vIyMiz
+srKKiYl5eHj39/dSUVFhX1+4t7e5uLjKysrLy8s6ODhRUFC/v7/z8/NjYmJVU1OQj4+RkJAjISG9
+vb3m5uZUUlIrKSmVlZVGRUV/fn5mZWXEw8Nta2usq6vJycmFhIRlZGSBf3/a2dk5NzdeXV04NjZO
+TEyEg4OMi4toZ2dZWFjt7e0vLS3Y2Nh1dHQiICCAf3+SkZGjoqK6ubnGxcXf39+TkpKBgIC3t7fS
+0dHl5OTBwcGnpqbu7u6op6c1MzOioaEkIiLZ2NhzcnJcW1vCwsKhoKDFxMRBPz9OTU3m5eXV1dV0
+c3OenZ0wLi6mpaV3dnagoKBTUlJWVFSpqKiCgYGNjIyfn5+rq6uxsLBkY2Ofnp5nZmZaWVmwr6/R
+0NBMSkqura1uBeqMAAAYhElEQVR4AezBtQHCAAAAsLo77vL/kUxM6N4kwVsAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEUJ2mWF2VVN23XD+P0NA6Lrl3WVVnkqzRZb8Jg
+xtju9ofj6dxfpn9dFtdTcdjvbsGccH+wSw9ocoVBAAB7bXWcfFibY6xt27Zt27xvjjB6+NF1hkpK
+TklNS0fvpWdkpiQn+QERXVb2v5yoXFRGXFRqXnY+EDEVGIwmMyov2mSxFgARis3ucBaiegqLiu3+
+QIRgKyktQy2UlVdUAtdIQVVoNWqpprauAPhE6hsam1B7cc0trcAZ0tbe0Yn66erobgNekB5rbx/q
+rS/U2gMcIP21A8iGgcEhYBsZHhlFlpSNJAGrSMJYBrJnfCwBGESsORPIpolUK7CFTAZ3Isu6GiaB
+GWRqegJZNzEzCywgfnPzyIeIhR7QGVlcikZ+LK8sgo7I6to68mVjcwt0QrZ3dpE/u45t0AHZC9tH
+PuXO7IHmqEsh8qswbA80RLbLC5FvhQfboBGyGtqE/NsN3QINkIKQQxTDYUgBEJX5jQ2gOAaOeoCo
+6bgGxRIVCEQ1J+EontN6IKoo2IxDEcVtnoHyyMI5iuo8GRRGLi5RZFcXoCCSaJxAsV1bEkEpZKoI
+xXczBYogt2uFKIP9tVvwHbm7R1k83IGPyOPaE8qjcPMRfEF+OlEuRT/Ba6TtXxPKJu5fG3iH+Dei
+jBp/gTdI3TPK6fkFPEZea1Feg4/gGbL9hjJ72wZPkJd3lNvHC7iN+G0i+ewB95D8LySIX/ngDvKz
+DKX3n/16VrQrCoMAPHFSnoltNTGqqE4Vq4m7sIp5bdv2Kx7bZ+91tdd8z/BjJuzWDkhhHT8YIT86
+UIDc6WSCHL8Dyaerm8mkuwuS286TTCWndyIX6XlPSfe+F5JdXwslU0sfJJs9Pko2vn5Ipu0HKdkd
+vA1JN8DcZBNSyKPrzEcG7yBB6rqZn3QfQYw0lbMQKW9ChPwtZ2FSPoQQ+TvMYsjwX4jmRROjedHE
+rJB5keEu9aOiibrSmhGWRvavgb3ubKGUassdWGsfpXT7YKtNFCc2wU4vKM68gI1G6ynO1I/BPuOv
+KE69moBtvrZSnGv9Crucm6QbUnMONmmaojsy1QSLvKVbchP22Ev3ZC9sMV1P96R+Gnb4+pliwuev
+sMHMfYoZ92fgfXcuUUyZvQPPO0sx5yy87uo3ijnfrsLb1m6lmPRsLbzs0RzFrLlH8LB5imkL8K7x
+AHnXoC1XEARP7OTZto9i27ixbdvmUWzb9rNt2/iPmG81O7W407sf0D23toaNAsQb3zi+tZGOvrs+
+ZXXb0e8/EPijP7wc3XbtlOvvjkqtznw8Aai4PaIbop4N4Lvi/7OQ1zyr/uIq9X367PV/r0Oke8Vs
+soHrUATkMAVz7g7hF0RMZQl3cFf4lgOIxVCifIlAQOmh9GzX4uZAP6HY4jcwsoXSD5mLWI2gqYBk
+hmASpbIX0YjQXYKwZVf0CJXCWTGIYTOK6kozO0Fgx6oxbdc2TgC6xLW1U/MNqyDbnQjerTdCiEzX
+EKBqHX9K3qkI8c80hH0SIPsbyfHFEysSmKrRgeS0S7570R1J4/hHY2UEntQ2pEQMcpaQyfYkM1nS
+xWzqJobRh2FOEmdS25Cg3/kWTF6WvfaT3y3aexnT2D3AtDJam5J0AkPDh9XRuivyWmXeJK9jHXoK
+5umERIkwqSDug9hdpX2Wz1lmwug09oHvB52lEuJLHxT5g1o9+AyWR9DAtYNWzyMLUH99yPBlWTcQ
+inQtHWbIQZZ2vLYSnyhK3ZZRIUwmgAJnsGQEWIprZgaeheIeaD1mONk5kwhfZsC6NpM41At6ZrE/
+kxyxmhicnZPbJy9/ecGmZX9T8Z8v23RweX5en9zCmIBLn2azH45O5HAUsraF98AZNJ5g3ODVnau5
+xbtQjXU9vqFF44pLtrMfqEuKxxWF+m7VmMxfyiVIB+PkRuIxZj9+HFjH57lMlWL6qSfOUeWRFdyf
+VBFZGeX8RFUwouotn1U7Eq2p8Kyp0zAMVdyixlEKNQpvEgdWT9FNP+3DUxYPTKxRSI4q4rbeA0bq
+NIFcqnn4vOnI772V7z9b/Mi9izNm6nrDrd1fN+qftcZqFb+tehyqeeIHHUNwFLYB/lv0/HFUDVly
+sUx/daXPG9ol/vhO89eIDNZUHKoQ4YOQh4zeNNKzk8vUt/oXdThcNtV3yXXIRKMOsDokOF+adPEE
+ZiptLd7qAqwmsSvvrXSBwXUTIUysLsDqLHR9voNOHtlNRfLlsE7QchAYAQ+d5NrWmAhfvrJ3181x
+XUsQwDtg5jazLSvMDOYwSC5vWe+tHWZmzkphEkthTszMDjMzMzMzM0e1/z7sUzX3zPl9hK2+PNsD
+PEKBO0qQWa9SYSN4cToVXkVWTd6ZCu/Ci05U2HkyMupwSnSAF+9R4nBk0+TulGgPL86iRPfJPk4w
+KTDtqXG4lxNMCoznU0xPingKjEhrZE/zJIp4CozIpGZkzstUGQcvyqjyMrImX0GVg+DFQVSpyCNj
+SikzHF4Mp0wpMmYvynSGFxtRZi9ky67U6QYvulFnV2TKpRTqAx/6UOg+ZMn7BQrdDh9up1DhfWTI
+LVSaDh+mU+keZEdzI5UOhw+HU6mxGZnRilKj4MMoSrVCZtxNqbvhw92U2gtZsQK1FuXgQW4RtT5w
+emolh8GDE0mfl/Lqoyk2Gh6MpthR1ciEzaj2ITz4kGqbIRPmU+0ueHAX1eYjC84YTLkdEL8dKDf4
+DK97HT9C/D6i3gJkQAX1liJ+86lXAfv2ZQAjlkfseo9gAPvCvNsYwjqI3ToM4TZYl/+YIQxB7M5l
+CA/mYdwmDKGwGLFbXGAIm8C46xjCJ4jfiwxhF9iWm8QALoAHVzGASTmYVsMABubgQW5DBlDj7xlp
+20Pgw3qd/D0n1VLuqFPgxQ5HUa4Wlg2j3pXw42DqDYNhh1LuU3gyinKHwrDZVNvmEnhSPZxqs2FX
+nwLFCvvCl331P+E+ni7BbeBNG6odCLOOp9i79fCmZCTFHoZZr1BsJvypGUytV2DVUxSrhEeVFHsK
+Rn1GrfMegEdrnEetz2DU9WlqSuJwal0Po7pQ6rBm+NT8CqW6wKbdqHUTvGpFrcth0p6UqsjDq3wF
+pfaESStTajP4tRmlVoZJY6k0tgR+LSf+LWHRsbGeRiO4vB8Lg56g0nmT4dlpR1PpifibMyfAt2eo
+dAsMWkqhhuPg2/jBFPocBh1NoTJ49wWFjoq+3qQVvGsVe8HOgRR6bTK8O21R5ENUx1BofyQ3UugY
+mHMmhaYjmUahM2FOZ+pUVSOZXMWYl5QdQqFbkQAbUmhozCvY+DIS4CQK1UTdbvI+EuCMqBt2dqHO
+LCTqz/+7wJg309+p5R6mzpswpiLNZsp9SZ062JIvN11QkZaGlufjvUE7D39L8q9R5wyY8lb6Uh3A
+59R5C6Y8HuCGPplIncdhygUBXhkkn8VbXbtfgJeSyfrU2S/eq+26SFocEe+U5h2UeQRFSTfK3AFT
+TqDMP5AEOA5PgCVzqXMhkhBX+rmxFjq/gaJkdersBkNmUOcrJCFmAG6GIRdR52kUJV9T5yIY8g11
+XkUIaTXxN7Huqr4SRcm3se6wfoY6pShKSqlzW6zVsicjhBSYShgyjzrvoChpos48GDI/SGCSd6iz
+FIasYj4wKTCrwJDh5gOT/l89PNY1Jk0oSkpjXWpyuvnH6hSYj2FIV/OBSTVUXWFIFXW+Q1HyMnXO
+hiH2qxtSYAhDmD4+BrFjCsy/twGKkotTYP69I1GUPJoC8++NQlFSmQLz762FouT7FBir1TcO+uNh
+SIE6d6MoGUKdEbG+6a1FEuIbXddYA1OFoqRbrIE5n0Jz0SJ5gELnxdobz8vQIvmAQp2jDcwLaJE0
+RRuYOgptiSTAbtnaWGd6uRAtkjaMdaZ3HIXGoEWyMoXGwZDrKbQXWiSDot0p9CGFzkeL5DUKfQhD
+viJTK6Jcbyp9BUMWUmkmBFLrquX2hh+o9CXk0lM1f4h3K/cu+EsyMd7d8S9Q6T38JVmN0b5Av4xK
+j+QBJCUnUOl2GDKUUpcBSD6g1FBYcjaVbgKQfEKlvWHKLCptByD5lEqzYEoHKvUAkAynUgeYch+V
+GtZFcuxgKv0IU56hVCmSKyn1DExpTam2SEZRqjVMaaLUtkhqKbU1THmKWr3h3RJqDYMpJQVKPQ7v
+PqNUoQS23EWpn+DdOErdBWN+olT5IfCtz9qRH4EDqPVd6s+UGgBjdqTWj6kZRmpHGDOHWmfPhWdD
+96bWHBizFcU+gWevUmwrWLOMWu+lYTuhZTCnjGLD4NduFPsC5jxDsWPg1wSKPRP/cyCXVcOryY0U
+uwnmPES1T+DV41TrBXNKulFs2xx8ylVQrFsJ7LmWaium4qmYZ14/pVoZfJpPtU9hUCvKXQGPnqRc
+Kxg0nnId4NF7lBsPi3am3Bz4s5hyO8OkeZRbJQdvch0pNw8mHUq9zeDNTdRbBybtRL0H58KXod2p
+txNMqj+BerfBl12od0IzbJpPvcLr8KTXCOrNh1EbM4C78/BjudUYwAYwqi9D2Bh+PMYQ+sKoXCMD
+KO8FL/YtZwCr5mDVfQxheD18qO7EEO6DWS8yiO3gw0QG8SLMep9h/AwPbmIYz8OuCgZR9RDi98HZ
+DKIOhn3FMGb1QezWHcswnoFhMxlIWQni1jyFgcyEYfnuDGT/HGKWa8dAuudh2cMM5RjE7FGG8iFM
+W8xgHkO8FjKYJphW/RqD+cbdFwGB16ph2/UMp7+3vAhcD+N+ZkBtEKHcBAa0GYyb/AgDqlwOsWle
+mQFVnQbrbmRI95+GuPRZypBuhHlzGFTH4xCTp7ZhUHNg3nLdGdSqayIeTxzFoLovB/u2Y1gNG+cQ
+h/wFDGw7ZMBzDO3M3ojBcbMZ2j+RBXUMbdVpyL4tuzK02kjecwv8wd5deLdVhnEc/6VF5jv9zYeE
+hXV6CA7zrTsTbJLRQ3Bti823eqHMNZAZLnN3x525uzs2N9wqtGuq9yY3b668n7/hm1x/ntbVYWzV
+fmXwzYUhhDkZfJV+gYG59/Vm8KWEwRh+pQgr0mFUP9anCLNgEIcpRMTWGBhRm9YeCnEYBuGKohhj
+7h0Jo+n6fhrFiHLBKBZTlKinvMbKZf0YinIrDGNlBwrz0CkvjCLmjTEUpkM8jOM7qjPYSf89Erkb
+RrD56rUU6DsYyMNU6tXSG6a0GQr0/OviuelJ9E/ST+HQOfdlg+wUahiM5Gkq0tv3FOTNy1pUon/q
+vtQV+rXjfHcK9jcM5UUqEbEa+dnajqN/1rbaaYMeVT97n4fCPQ9DcX/l/6jvH29oRv9UenCqG/pS
+q/HEDgyBKDeM5Wcq8DQK93lH+qti6sbx0IuETmecDI2fYTD9RrNk9tUoQtvu9NszK7qtRsh1nXx1
+NENm9M0wmr5U4GkH8vmof+/ZhwF0TWUgVt1w5G0XQqXhxnP1UxhKvWA4YUlUINUFX5WY4R9k2NiH
+galXZs7O6hDM+9iFVtF2hlhSGIynFJVo4oKP6czwFTKll2fA7MOXzX2tEYSodrhb6eYdqAelYEBt
+kqjErH7Ia/OTJK9FlptfoTb6/N36xrYH3kSQNPzrvTta1e9N3UhqAyMqRUWGXI+8xrcs1XcBstlS
+qaVH/r5h7K6jDminWpVSZZrOo96UAkz8F8O0lijS/fr+QNt1jlqRfzBAKSr0VpiwYi5AW2NJ+Qcj
++i+GnNfJjXx+vvbLy5ChCbUUCa09Kv9gtFOKir2wAz6q5kydsk2kdp6F5mxl5B+MZlbup2JjDhey
+irc2gPGVqZXrvNBe1+HUlf3xMK45VM5zwac1Z+6W0B8qUhv770EwhEdQTyJhYOOPU4VPkMcnzHAc
+mQ57qIk94tf+iLdqPIxsF9Vo4UIu20+XXjPsSy2cQZDYrqV+nIChuctTjauRxwNz7u2HLCObMnDO
+txEsXezUi/ZuGNtrmjxljW2m79EXcdSLu2F0s6nKkWANPk5bieBJcFIfFsLwDqRQDc98FObm2xmg
++w0yAV2uVP2MqvTeDF83NUKGjQxMRDUEU7qdGpFLm2euoirH+iGvK5qx6dTAJ0bHIbjKUCtyLXzj
+QO7fj48g2WE5cNNxXQ/v2kkdaAxzmBDAJzUDmOn4eOCwnf4rjyBz386Qm4Bcljrv5Zg2yDVyMHPe
+8r2S/luMYOsrz3i1s5XqlClw/bEOgGsg/ZaAYAuXZ7za6fcV1amNXPEP5a6liImmnyoj+J5kaH3V
+D+axier0n4lcyc3J/enItOM4/TMWwbeUobUcZnKS6qzDJe6dF9sgW3g9+mUKgu9uhlQiTKXWQ1TF
+eQ98BVRMmgPB19XJEHqoFszlZY02iYVXpHqzIUJd+dBRS6WpThcUrvMIfZ7CAA8ydD6E6cSsoiod
+UUDVTfEAYsZRrUkQ4SOGzKrdMJ8ZAc5oc/1KepaFAe7zHqqTABHCGTLzYUYfUJVB8DWVmfpvBjBs
+ONVIgxDeZgyRFjCl8SOoSix8tGWWpg4Ab37SgcpNhxhfMDRG9IM5PdchkBO5RnZmqYlM6ROp0MIX
+bRDjD4ZEhxowqypUo0NP+Ijz/f898Hszlijq284QZg1DogdMy/UH1TgPH7WGMNM3yPHD2AosTvkn
+YiFSJENhhQvmtfI4VTjugI+Zpe1kvc24xDXlXHkWam/plgsg2AmGwPGVMLMpKVThPeSTcPnFlcin
+56S+ZYYnMYfnobKl11/WECEwieI1exfmtli7V8iSY9sg1+7ruxw9emdserWRCJk7Kd4WmJzrFY0W
+LNz5Bcn2Z10o2sz35kbe7YUwVSncly6YXa1pmjw17NqbWeq4UQTXrWuZIeptiNKZon1RHea3Oo3K
+TS7x17wPuaq+1OOjRsjRi9kmmDeYtKqwgveoXNSbKNzQRcz2Jf6XUJYZPE28+V5POQ5R2lCwX2AN
+Y6ncOhThNafvgC7HCN93oeP5vyYQJYZi9YVFuMpQMfstKMID05nhdAyyPcb/fYVsqcyyop9Zgxnk
+hlXMLE/FKtyEovzQ9vnPkSOsWb5jlO3E6QrTbtvmgkmDaTcT1jGgIhVbYYMinTzMtPce+DJpMIsG
+wEq6PEPFlkKZ505e13Rgp36wRDBJw2At79mpWBUYQwLFqQmr6UblzsIQOlOYq2A9paiY54gMxsfV
+sCD3LCp3qwwmj9tssCLvQirXxCGDyXHaC2uauYTKvRAmg8lWrhasKj6ayj0yXwaTaVo8rOuHKKrw
+wUzIYJ78AVaWfpwq9K9t+WCOJ8PakldRjdN/WTuYep/D6tROfPm0hoWDqRcOtWQx7Hi328DBiO9F
+FsPbz2+2VDCyF1/Jx6laufU/uqDIyOdGmiOY46vhP1kMWanBvlgHitNw6qnUJR0YY/xgfK+PpB1R
+9M8zo+K21N4e5oaP6p9f1jIy7u/RzNbQDMFEdcYlUnx5BsJTKbpc2UNlMkyv/MWiJPrqbIJg2och
+L6l6fWpMfDDpDJq6N8GX1O+Q4YOJZbCs6If8JNuzMpgixDlQkOR6XwZTqF4uFEra5ZTBFJDyFKSi
+7Nwvg8ln/8uQinaguwzGR4VwFEda+T0197lxg3m6J4oneVtTa7GGDSbOixJJvzllMFlS7oWkxC2L
+ZDAZ6i2HpMwPoyiDuTYBklLeBy0fzEkvVJD+XGvpYNI+gjrS9c0tHMyxt6GWNLSFZYNZ8yYkP2wb
+Q00cNVYwo1+E5J9GZwwVzFFq4fQCSP5y9YiwWDARi90IgPT2EksFM6QqAiM5vnVaJpiUK0ciYFLV
+URYJ5tpwSFpwV0mzQDCDu9kgaSRhnOmDOXMPJA1drEe/zdd/MKPPQtLW7jUe+qm23oOxp8ZD0lyN
+p00azKgHEAyS6+Ijug5mG/2xaI8LQSLNPOfUcTC1qV7Ko7UQRNLjt5kqmIlvI8ikLtNNE8zXUyCA
+dPcxUwTTbjLEkNwXuxs+mId2uSGM5D2lIpmz+gvmoVNeCCU59kRRoT16CybqiBfCSY7Low0ZTNQe
+B6SQcDceoqdzmI1UoHxjB6TQ2VTGzpL8BTF+ZEnsA3dCCrHkD9JYrIihEMPxDIv1TOI7kHQg5o6H
+WIxBEOUaFmNV5G5IOmGbfKgZizIDolzGothX1HZA0pNG529noe6DOLNZqP5XDoCkO+6Xr0lhAccb
+QZwfXmUBnkOTbZD0aeWpr+lrbzJECr+dvure2xOSniWsP8ZczjUxopNt5WGu6Mh0SPq3+pMX+kcw
+4qFxNy6AeJ3nLnyEdK4qey4WkuX91x4cCwAAAAAM8reexa4KAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAB4ESkReJY8+4+aAAAAAElFTkSuQmCC
+
+------MultipartBoundary--tbiC2Z5OAAICKrbEsKoafZZS41tdGOYsTUdgehQqvL------

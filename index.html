@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CV - Jérémie CYRILLE</title>
+    <link rel="stylesheet" href="css/mustard-ui.css">
+    <style>
+         :root {
+            --primary-bg-color: #fff;
+            --second-bg-color: #f5f5f5;
+            --btn-bg-color: #4caf50;
+            --custom-yellow: #ffc107;
+            --custom-text-color: #fff;
+            --profile-bg-opacity: 0.6;
+            --profile-infos-opacity: 0.6;
+        }
+        
+        .container {
+            background: transparent !important;
+        }
+        
+        .profile__image {
+            margin-top: 10px;
+            border-radius: 50px;
+			height: 180px;
+			width: 180px;
+        }
+        
+        .profile__name {
+            margin-top: 25px;
+            margin-bottom: 5px;
+            opacity: var(--profile-infos-opacity);
+        }
+        
+        .profile__email {
+            opacity: var(--profile-infos-opacity);
+        }
+        
+        .skill__title {
+            margin-bottom: 35px;
+        }
+        
+        .skill__logo {
+            height: 64px;
+            width: 64px;
+        }
+        
+        .section-primary {
+            color: var(--custom-text-color) !important;
+            background-image: linear-gradient(to bottom right, #032031, #d43110) !important;
+            opacity: var(--profile-bg-opacity) !important;
+        }
+        
+        .section-secondary {
+            background-color: var(--second-bg-color) !important;
+        }
+		
+		.section-tertiary {
+			padding-bottom: 0;
+		}
+        
+        .step-number {
+            background-color: var(--btn-bg-color) !important;
+        }
+        
+		.tooltip {
+			border-bottom: none;
+		}
+		
+        .footer {
+            border-top: 2px solid var(--custom-yellow);
+            background-color: var(--second-bg-color);
+        }
+    </style>
+</head>
+
+<body>
+    <section class="section-primary" id="main">
+        <div class="container align-center">
+            <p class="h3 profile__name">Jeremie CYRILLE</p>
+            <p class="profile__email"><strong>Email: jeremie.cyrille@icloud.com </strong></p>
+        </div>
+    </section>
+    <section class="section-secondary">
+        <div class="container align-center" id="skills">
+            <h3 class="skill__title">Compétences</h3>
+            <div class="row">
+                </div>
+                <div class="col col-sm-4 col-md-2">
+                    <img src="img/Node.js_logo.svg" class="skill__logo" alt="nodejs_icon">
+                    <p>NodeJS</p>
+                </div>
+                <div class="col col-sm-4 col-md-2">
+                    <img src="img/Git-logo.svg" class="skill__logo" alt="git_icon">
+                    <p>Git</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-tertiary" id="exp">
+        <div class="container">
+            <div class="row">
+                <div class="col col-sm-12 col-md-7">
+                    <h3>Expériences</h3>
+                    <p class="h6">Terminées</p>
+                    <div class="stepper">
+                        <div class="step">
+                            <p class="step-number">3</p>
+                            <p class="step-title">Etude Baccalaureat informatique</p>
+                            <p>2019-2020 une année en Baccalaureat informatique au Canada à l'Universite du Quebec à Trois-Riviere</p>
+                        </div>
+                        <div class="step">
+                            <p class="step-number">2</p>
+                            <p class="step-title">Etude en genie électrique specialite Informatique</p>
+                            <p>2018-2019 une année en genie électrique spécialite informatique au Canada à l'Universite du Quebec a Trois-Riviere</p>
+                        </div>
+                         <div class="step">
+                            <p class="step-number">1</p>
+                            <p class="step-title">Baccalaureat scientifique</p>
+                            <p>Baccalaureat scientifique francais obtenu en 2018 au lycee Nord Atlantique en Martinique, France</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-sm-12 col-md-5">
+                    <h3>Langues</h3>
+                    <ul>
+                        <li>Français</li>
+                        <li>Anglais</li>
+                    </ul><br>
+                    <h3>Loisirs</h3>
+                    <ul>
+                        <li>Informatique / Programmation</li>
+                        <li>Badminton</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-quaternary" id="follow">
+        <div class="container align-center">
+            <p class="h4"><strong>Me suivre sur:</strong></p>
+            <div class="row">
+                <div class="col col-sm-4 col-md-4">
+                    <a href="https://discordapp.com" class="tooltip">
+                        <img src="img/Discord-Logo-Color.svg" class="skill__logo" alt="discord_icon">
+						<p>Discord</p>
+						<span class="tooltip-text">citizenlab#7291</span>
+                    </a>
+                </div>
+                <div class="col col-sm-4 col-md-4">
+                    <a href="https://github.com/jcyrille972" class="tooltip">
+                        <img src="img\GitHub-Mark.png" class="skill__logo" alt="github_icon">
+                        <p>GitHub</p>
+						<span class="tooltip-text">github/jcyrille972</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer align-center">
+        Made  by Jeremie CYRILLE - Copyright 2019
+    </footer>
+</body>
+
+</html>
